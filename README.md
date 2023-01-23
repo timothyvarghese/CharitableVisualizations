@@ -3,7 +3,7 @@
 Thus repository contains Power BI, Tableau, and Python (and Seaborn) code for visualizing a sample charitable data set.
 The input data set is synthesized but realistic (it matches what I have seen in an internship)
 and is large (70,000 donor records). It can be used by others as a publicly available benchmark as there
-us nothing proprietary about the synthesized data.
+is nothing proprietary about the synthesized data.
 
 The current code is more about visual analytics but in the future I will add some machine learning
 results as well using the Weka tool set that I have done (in my experience, simple decision trees
